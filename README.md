@@ -1,1 +1,1 @@
-# vite-scss-babel
+# vite-shopify
